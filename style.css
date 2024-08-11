@@ -1,0 +1,73 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing:border-box ;
+
+}
+
+body{
+
+background-image: url(https://static.vecteezy.com/system/resources/previews/001/416/518/original/blank-landscape-in-nature-park-scene-free-vector.jpg);
+
+
+}
+
+.container{
+
+ margin: 50px 50px 50px 600px;
+ padding: 20px;
+ 
+}
+.heading{
+
+     color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-weight: bolder;
+     margin-left: 5px;
+     font-size: 80px;
+     
+}
+
+.qoute-generator{
+
+   padding: 35px;
+   margin: 10px 0px 0px 20px;
+  
+}
+
+#qoutes{
+font-size: 30px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+color:white;
+
+}
+#author{
+
+padding: 5px;
+color: green;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#button{
+
+
+    background-color:skyblue;
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    font-weight:bolder;
+    color:green;
+    margin-top: 100px ;
+    
+    transition: 1s;
+    font-size: larger;
+}
+
+#button:hover{
+
+ background-color: greenyellow;
+ 
+
+}
